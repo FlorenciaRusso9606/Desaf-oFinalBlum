@@ -1,0 +1,225 @@
+[
+    {
+        "id": 1,
+        "tipo":"Remera",
+        "nombre":"Remera Flaming",
+        "precio": 1700,
+        "img": "../img/remera-flaming.jpg"
+    },
+    {
+        "id":2,
+        "tipo":"Remera",
+        "nombre":"Top semi polera Noise",
+        "precio": 2800,
+        "img": "../img/top-noise.jpg"
+    },
+    {
+        "id":3,
+        "tipo":"Remera",
+        "nombre":"Remeron Sabbath",
+        "precio": 3000,
+        "img": "../img/remeron-sabbath.jpg"
+    },
+    {
+        "id":4,
+        "tipo":"Remera",
+        "nombre":"Top tul moon",
+        "precio": 1000,
+        "img": "../img/top-moon.jpg"
+    },
+    {
+        "id":5,
+        "tipo":"Remera",
+        "nombre":"Polera crop Angelica",
+        "precio": 3200,
+        "img": "../img/polera-crop-angelica.jpg"
+    },
+    {
+        "id":6,
+        "tipo":"Remera",
+        "nombre":"Polera basic cuello alto",
+        "precio": 3000,
+        "img": "../img/polera-basic-cuello-alto.jpg"
+    },
+    {
+        "id":7,
+        "tipo":"Abrigo",
+        "nombre":"Sweater Flowers",
+        "precio": 6000,
+        "img": "../img/sweater-flowers.jpg"
+    },
+    {
+        "id":8,
+        "tipo":"Abrigo",
+        "nombre":"Buzo Afrodita",
+        "precio": 6000,
+        "img": "../img/buzo-afrodita.jpg"
+    },
+    {
+        "id":9,
+        "tipo":"Abrigo",
+        "nombre":"Buzo California",
+        "precio": 7500,
+        "img": "../img/buzo-california.jpg"
+    },
+    {
+        "id":10,
+        "tipo": "Abrigo",
+        "nombre": "Buzo Cozy Flower",
+        "precio": 8900,
+        "img": "../img/buzo-cozy-flower.jpg"
+    },
+    {
+        "id":11,
+        "tipo": "Abrigo",
+        "nombre": "Buzo Yosemite",
+        "precio": 6000,
+        "img": "../img/buzo-yosemite.jpg"
+    },
+    {
+        "id":12,
+        "tipo": "Abrigo",
+        "nombre": "Buzo Calm",
+        "precio": 6000,
+        "img": "../img/buzo-calm.jpg"
+    },
+    {
+        "id":13,
+        "tipo": "Abrigo",
+        "nombre": "Abrigo Teddy",
+        "precio": 8000,
+        "img": "../img/abrigo-teddy.jpg"
+    },
+    {
+        "id":14,
+        "tipo": "Abrigo",
+        "nombre": "Puffer Jared eco cuero",
+        "precio": 19000,
+        "img": "../img/puffer-jared.jpg"
+    },
+    {
+        "id":15,
+        "tipo": "Abrigo",
+        "nombre": "Abrigo Lanin",
+        "precio": 21000,
+        "img": "../img/abrigo-lanin.jpg"
+    },
+    {
+        "id":16,
+        "tipo": "Abrigo",
+        "nombre": "Abrigo Suecia",
+        "precio": 20300,
+        "img": "../img/abrigo-suecia.jpg"
+    },
+    {
+        "id":17,
+        "tipo": "Abrigo",
+        "nombre": "Blazer Lamar eco cuero",
+        "precio": 15600,
+        "img": "../img/blazer-lamar-eco-cuero.jpg"
+    },
+    {
+        "id":18,
+        "tipo": "Abrigo",
+        "nombre": "Puffer Jared eco cuero",
+        "precio": 7500,
+        "img": "../img/puffer-jared.jpg"
+    },{
+        "id":19,
+        "tipo": "Pantalon",
+        "nombre": "Pantalón Toronto eco cuero",
+        "precio": 9000,
+        "img": "../img/pantalon-toronto.jpg"
+    },
+    {
+        "id":20,
+        "tipo": "Pantalon",
+        "nombre": "Pantalón Cargo Avril",
+        "precio": 8000,
+        "img": "../img/pantalon-avril.jpg"
+    },
+    {
+        "id":21,
+        "tipo": "Pantalon",
+        "nombre": "Jean Cargo Blue",
+        "precio": 8100,
+        "img": "../img/jean-cargo-blue.jpg"
+    },
+    {
+        "id":22,
+        "tipo": "Pantalon",
+        "nombre": "Jean wide leg Waves",
+        "precio": 9000,
+        "img": "../img/jean-wide-leg-waves.jpg"
+    },
+    {
+        "id":23,
+        "tipo": "Pantalon",
+        "nombre": "Jean Full black",
+        "precio": 7000,
+        "img": "../img/jean-full-black.jpg"
+    },
+    {
+        "id":24,
+        "tipo": "Pantalon",
+        "nombre": "Jean Kiev Pink",
+        "precio": 8500,
+        "img": "../img/jean-kiev-pink.jpg"
+    },
+    {
+        "id":25,
+        "tipo": "Pantalon",
+        "nombre": "Jean Cargo Black",
+        "precio": 8100,
+        "img": "../img/jean-cargo-black.jpg"
+    },
+    {
+        "id":26,
+        "tipo": "Pantalon",
+        "nombre": "Jean Tears",
+        "precio": 6000,
+        "img": "../img/jean-tears.jpg"
+    },
+    {
+        "id":27,
+        "tipo": "Pantalon",
+        "nombre": "Sastreto Tommy",
+        "precio": 7900,
+        "img": "../img/sastrero-tommy.jpg"
+    },
+    {
+        "id":28,
+        "tipo": "Accesorio",
+        "nombre": "Piluso Teddy",
+        "precio": 3000,
+        "img": "../img/piluso-teddy.jpg"
+    },
+    {
+        "id":29,
+        "tipo": "Accesorio",
+        "nombre": "Piluso Corderoy",
+        "precio": 2200,
+        "img": "../img/piluso-corderoy.jpg"
+    },
+    {
+        "id":30,
+        "tipo": "Accesorio",
+        "nombre": "Gorro Warm",
+        "precio": 1400,
+        "img": "../img/gorro-warm.jpg"
+    },
+    {
+        "id":31,
+        "tipo": "Accesorio",
+        "nombre": "Gorro Fungi",
+        "precio": 2300,
+        "img": "../img/gorro-fungi.jpg"
+    },
+    {
+        "id":32,
+        "tipo": "Accesorio",
+        "nombre": "Gorro Yang",
+        "precio": 2300,
+        "img": "../img/gorro-yang.jpg"
+    }
+]
